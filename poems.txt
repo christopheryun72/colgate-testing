@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   There is my Mom
 She is running for office
   Finally, she is my Mom
@@ -6,3 +7,13 @@ She is running for office
          Haiku are hard
 You can just count the syllables
       It's five seven five
+=======
+  There is my Mom
+She is running for office
+  Finally, she is my Mom
+
+
+         Haiku are hard
+You can just count the syllables
+      It's five seven five
+>>>>>>> secrets
